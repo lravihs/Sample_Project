@@ -1,0 +1,11 @@
+framework module NIOHTTP1 {
+  umbrella header "SwiftNIOHTTP1-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module NIOHTTP1.Swift {
+  header "NIOHTTP1-Swift.h"
+  requires objc
+}

@@ -1,0 +1,10 @@
+framework module NIO {
+  umbrella header "SwiftNIO-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module NIO.__Swift {
+  exclude header "NIO-Swift.h"
+}

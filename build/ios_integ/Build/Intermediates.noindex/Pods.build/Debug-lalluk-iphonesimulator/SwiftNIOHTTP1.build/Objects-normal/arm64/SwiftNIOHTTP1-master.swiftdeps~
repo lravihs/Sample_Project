@@ -1,0 +1,15 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "e956013ba41ce613a5c61d5912f8914e14a1aa79969afbc54fd107fe845eeafc"
+build_start_time: [1691760844, 287117004]
+build_end_time: [1691760844, 311763048]
+inputs:
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOHTTP1/Sources/NIOHTTP1/ByteCollectionUtils.swift": !dirty [1691760234, 651348352]
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOHTTP1/Sources/NIOHTTP1/HTTPDecoder.swift": !dirty [1691760234, 653488159]
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOHTTP1/Sources/NIOHTTP1/HTTPEncoder.swift": !dirty [1691760234, 651506900]
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOHTTP1/Sources/NIOHTTP1/HTTPPipelineSetup.swift": !dirty [1691760234, 650243043]
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOHTTP1/Sources/NIOHTTP1/HTTPServerPipelineHandler.swift": !dirty [1691760234, 650521755]
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOHTTP1/Sources/NIOHTTP1/HTTPServerProtocolErrorHandler.swift": !dirty [1691760234, 651793241]
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOHTTP1/Sources/NIOHTTP1/HTTPServerUpgradeHandler.swift": !dirty [1691760234, 651949167]
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOHTTP1/Sources/NIOHTTP1/HTTPTypes.swift": !dirty [1691760234, 650797843]
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOHTTP1/Sources/NIOHTTP1/NIOHTTPClientUpgradeHandler.swift": !dirty [1691760234, 651112556]
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOHTTP1/Sources/NIOHTTP1/NIOHTTPObjectAggregator.swift": !dirty [1691760234, 653309822]

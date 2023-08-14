@@ -14,15 +14,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Vgw2lI8AwAEa+gKFq9yqFvx6cK0=
+		r/Wey9a2x59FzOOTq9EeClEIU68=
 		</data>
 		<key>Modules/NIOHTTP2.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		pCN24Elg3MmQpJussu3A95car/0=
+		HXsJOQY0qF/eutmm5gWV26scvZQ=
 		</data>
 		<key>Modules/NIOHTTP2.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		UtJNFUWuCmwBLEmusWRlFXnLhVI=
+		MLUVYp6V4GkLWyBnu5IWeEJd2wI=
 		</data>
 		<key>Modules/NIOHTTP2.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/NIOHTTP2.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		uJ3DahciMRrFqdcN7feUtc6Xpkk=
+		rIGlw/cPv9BfDZnu31zRPNwldhk=
 		</data>
 		<key>Modules/NIOHTTP2.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/NIOHTTP2.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		3qiJNgDK58fXDiFw4juuLccwU9g=
+		uK11XanJ0mBG5NTltmQ0CtfSQto=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -81,22 +81,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pCN24Elg3MmQpJussu3A95car/0=
+			HXsJOQY0qF/eutmm5gWV26scvZQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			9bNG0s7oL7kUCHA0IMpyi2uXUf9+MzBs4gr0T2Ep/0M=
+			Rshh+StD3pfH2VU6tzxoJkOMcBxpfVCkhcHVmg0GZqU=
 			</data>
 		</dict>
 		<key>Modules/NIOHTTP2.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UtJNFUWuCmwBLEmusWRlFXnLhVI=
+			MLUVYp6V4GkLWyBnu5IWeEJd2wI=
 			</data>
 			<key>hash2</key>
 			<data>
-			Jsno6+dcKXpaVJ4EJo7aI6+san7wJuTFh/gHjf8yL9Y=
+			bJseC2kr9YYbtVqFt8C2GZRSTyH9Vc0+O57rSSIQO6w=
 			</data>
 		</dict>
 		<key>Modules/NIOHTTP2.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -125,11 +125,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uJ3DahciMRrFqdcN7feUtc6Xpkk=
+			rIGlw/cPv9BfDZnu31zRPNwldhk=
 			</data>
 			<key>hash2</key>
 			<data>
-			1LWsyTz6DDa14hSTv92OetdrKvEAUVjCPvWIMyamzog=
+			HShfaXqYgfLkiACwR51EKNOAI3AJNk8tHX5cevtuPVI=
 			</data>
 		</dict>
 		<key>Modules/NIOHTTP2.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -158,11 +158,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3qiJNgDK58fXDiFw4juuLccwU9g=
+			uK11XanJ0mBG5NTltmQ0CtfSQto=
 			</data>
 			<key>hash2</key>
 			<data>
-			PIaUQZVr4bf98wjwXwGd1CB2X7sVLcYZjxB0W6MhhRI=
+			63okbCI3UElLzcf05KznyUbtqagmJ/Ddji6N7TWSK4w=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

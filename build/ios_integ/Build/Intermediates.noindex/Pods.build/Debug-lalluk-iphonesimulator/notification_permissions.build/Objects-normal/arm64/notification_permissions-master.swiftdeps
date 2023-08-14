@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "96e1d1702873916d41ed2ee237d6845ff6190ce087adf7db0c785835021f31d2"
+build_start_time: [1691760788, 498605012]
+build_end_time: [1691760793, 153318881]
+inputs:
+  "/Users/hs/.pub-cache/hosted/pub.dev/notification_permissions-0.6.1/ios/Classes/SwiftNotificationPermissionsPlugin.swift": [1685360172, 488619804]

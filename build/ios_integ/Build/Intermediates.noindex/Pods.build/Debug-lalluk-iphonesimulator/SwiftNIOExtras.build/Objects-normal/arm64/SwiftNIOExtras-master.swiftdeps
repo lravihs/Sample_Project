@@ -1,0 +1,19 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "8e01da12ff3c033e88993bbff9f43e0bee93e12bd160172e40d9610e2b69eb74"
+build_start_time: [1691760845, 328922033]
+build_end_time: [1691760865, 421697139]
+inputs:
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOExtras/Sources/NIOExtras/DebugInboundEventsHandler.swift": [1691760234, 632913351]
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOExtras/Sources/NIOExtras/DebugOutboundEventsHandler.swift": [1691760234, 629250049]
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOExtras/Sources/NIOExtras/FixedLengthFrameDecoder.swift": [1691760234, 633322954]
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOExtras/Sources/NIOExtras/JSONRPCFraming+ContentLengthHeader.swift": [1691760234, 630572795]
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOExtras/Sources/NIOExtras/JSONRPCFraming.swift": [1691760234, 631727457]
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOExtras/Sources/NIOExtras/LengthFieldBasedFrameDecoder.swift": [1691760234, 631164312]
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOExtras/Sources/NIOExtras/LengthFieldPrepender.swift": [1691760234, 629479646]
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOExtras/Sources/NIOExtras/LineBasedFrameDecoder.swift": [1691760234, 630257129]
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOExtras/Sources/NIOExtras/NIOExtrasError.swift": [1691760234, 629718780]
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOExtras/Sources/NIOExtras/NIOLengthFieldBitLength.swift": [1691760234, 633109569]
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOExtras/Sources/NIOExtras/PCAPRingBuffer.swift": [1691760234, 631422519]
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOExtras/Sources/NIOExtras/QuiescingHelper.swift": [1691760234, 629991769]
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOExtras/Sources/NIOExtras/RequestResponseHandler.swift": [1691760234, 628966331]
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOExtras/Sources/NIOExtras/WritePCAPHandler.swift": [1691760234, 630879402]

@@ -1,0 +1,8 @@
+"/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOSSL/Sources/NIOSSL/ByteBufferBIO.swift":
+  abi-baseline-json: "/Users/hs/Downloads/AT_Test/build/ios_integ/Build/Intermediates.noindex/Pods.build/Debug-lalluk-iphonesimulator/SwiftNIOSSL.build/Objects-normal/arm64/NIOSSL.abi.json"
+  dependencies: "/Users/hs/Downloads/AT_Test/build/ios_integ/Build/Intermediates.noindex/Pods.build/Debug-lalluk-iphonesimulator/SwiftNIOSSL.build/Objects-normal/arm64/SwiftNIOSSL-master.d"
+  diagnostics: "/Users/hs/Downloads/AT_Test/build/ios_integ/Build/Intermediates.noindex/Pods.build/Debug-lalluk-iphonesimulator/SwiftNIOSSL.build/Objects-normal/arm64/SwiftNIOSSL-master.dia"
+  swiftsourceinfo: "/Users/hs/Downloads/AT_Test/build/ios_integ/Build/Intermediates.noindex/Pods.build/Debug-lalluk-iphonesimulator/SwiftNIOSSL.build/Objects-normal/arm64/NIOSSL.swiftsourceinfo"
+  swiftmodule: "/Users/hs/Downloads/AT_Test/build/ios_integ/Build/Intermediates.noindex/Pods.build/Debug-lalluk-iphonesimulator/SwiftNIOSSL.build/Objects-normal/arm64/NIOSSL.swiftmodule"
+  swiftdoc: "/Users/hs/Downloads/AT_Test/build/ios_integ/Build/Intermediates.noindex/Pods.build/Debug-lalluk-iphonesimulator/SwiftNIOSSL.build/Objects-normal/arm64/NIOSSL.swiftdoc"
+  objc-header: "/Users/hs/Downloads/AT_Test/build/ios_integ/Build/Intermediates.noindex/Pods.build/Debug-lalluk-iphonesimulator/SwiftNIOSSL.build/Objects-normal/arm64/NIOSSL-Swift.h"

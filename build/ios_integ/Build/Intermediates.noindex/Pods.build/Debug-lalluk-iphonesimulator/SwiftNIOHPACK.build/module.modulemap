@@ -1,0 +1,11 @@
+framework module NIOHPACK {
+  umbrella header "SwiftNIOHPACK-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module NIOHPACK.Swift {
+  header "NIOHPACK-Swift.h"
+  requires objc
+}

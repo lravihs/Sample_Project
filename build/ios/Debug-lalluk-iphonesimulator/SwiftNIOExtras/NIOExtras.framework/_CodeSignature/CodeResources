@@ -14,15 +14,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Ozo2Ig+HpkwsMkYFcp/09CMX1i4=
+		IzalMjMNm4Iavehjx4Xgtib6a9I=
 		</data>
 		<key>Modules/NIOExtras.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		CmuhKPBI96/PNfSmKSA7L+e+25A=
+		pMLnH64C0jCVk3MdkSwTiBS+0LE=
 		</data>
 		<key>Modules/NIOExtras.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		8KlrLDSZdHIS/n7XL3CBmbIPVGw=
+		4Y7fKUCbjZEZcW2axykS/Cc//Cw=
 		</data>
 		<key>Modules/NIOExtras.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/NIOExtras.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		XtS767mAOu4QMJgcd1hD+XFXq44=
+		Oc6wkZNt1mCukoCJyjE1IeqZ9+o=
 		</data>
 		<key>Modules/NIOExtras.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/NIOExtras.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		+VE0iRtnlohu5nvERXr0IFJ5OoI=
+		OMfuYr+nhZXDMXyfkfnTjyCQeSE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -81,22 +81,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CmuhKPBI96/PNfSmKSA7L+e+25A=
+			pMLnH64C0jCVk3MdkSwTiBS+0LE=
 			</data>
 			<key>hash2</key>
 			<data>
-			84wLUixkRicoRmJE1hzsnDmFeXB2L25v1cZaqyigPIU=
+			6Wrv0g1cbz+90/2z+Be8do781s0kJMSWUh6PYZikZtk=
 			</data>
 		</dict>
 		<key>Modules/NIOExtras.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8KlrLDSZdHIS/n7XL3CBmbIPVGw=
+			4Y7fKUCbjZEZcW2axykS/Cc//Cw=
 			</data>
 			<key>hash2</key>
 			<data>
-			GwTiq9zOhJhoA2CItSvaQ+LbqCTxz8XPc0K1QM4TRwM=
+			kcHDnVL8Fg3FPcEPiBTHij8qkXxWuvv9BdxrkgIzwJY=
 			</data>
 		</dict>
 		<key>Modules/NIOExtras.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -125,11 +125,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			XtS767mAOu4QMJgcd1hD+XFXq44=
+			Oc6wkZNt1mCukoCJyjE1IeqZ9+o=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ca13DbzedT/Gu0pBy+CqIEW1wONfn/MTkM5kd1571y4=
+			uLpxVlxGj+XazaznwqjMCRDM5yh08Dftl2bWFWJdPPE=
 			</data>
 		</dict>
 		<key>Modules/NIOExtras.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -158,11 +158,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+VE0iRtnlohu5nvERXr0IFJ5OoI=
+			OMfuYr+nhZXDMXyfkfnTjyCQeSE=
 			</data>
 			<key>hash2</key>
 			<data>
-			6iCQJ3G4hnix8PFp7l6UI38ssV0erf1OKcfoPemidhU=
+			cixISwbFmSFAb+F2cS/sNkb0UdOxig80t+XM1f98/kk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

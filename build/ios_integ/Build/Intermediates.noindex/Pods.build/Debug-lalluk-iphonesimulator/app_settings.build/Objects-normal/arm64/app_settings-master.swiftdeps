@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "48ab63a1f0746622547486f67deb235933fc1dbaab06634e927e9e49e0a70e82"
+build_start_time: [1691760792, 846479892]
+build_end_time: [1691760798, 480657100]
+inputs:
+  "/Users/hs/.pub-cache/hosted/pub.dev/app_settings-4.2.0/ios/Classes/SwiftAppSettingsPlugin.swift": [1685360172, 314752578]

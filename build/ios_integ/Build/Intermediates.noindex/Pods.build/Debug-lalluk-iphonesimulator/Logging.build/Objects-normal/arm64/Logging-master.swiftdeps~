@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "326ab4153a982902c9f8fc68ad65783dd233b312c2f8dac38530e25c1f19382b"
+build_start_time: [1691760798, 365213871]
+build_end_time: [1691760798, 476827144]
+inputs:
+  "/Users/hs/Downloads/AT_Test/ios/Pods/Logging/Sources/Logging/Locks.swift": !dirty [1691760234, 575819015]
+  "/Users/hs/Downloads/AT_Test/ios/Pods/Logging/Sources/Logging/LogHandler.swift": !dirty [1691760234, 575102329]
+  "/Users/hs/Downloads/AT_Test/ios/Pods/Logging/Sources/Logging/Logging.swift": !dirty [1691760234, 573862791]

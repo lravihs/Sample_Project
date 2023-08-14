@@ -14,15 +14,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		aR1/VglehURWsfiWw47+T038zSo=
+		r2s//pYlZvvWK7Rcg99xRuMMk/I=
 		</data>
 		<key>Modules/NIOFoundationCompat.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		F4HsqEnCyIrFfPhM8MgebvA1ZRQ=
+		t7Oto29nn391Lebknjxvke9ZiYI=
 		</data>
 		<key>Modules/NIOFoundationCompat.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		7csvkOTTDpLj59hS5jY0JjWtQkY=
+		ShSqCaJtCuL1s7UIzfeMvY7SrsI=
 		</data>
 		<key>Modules/NIOFoundationCompat.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/NIOFoundationCompat.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		E/Pw/jh5oyIxrrTEXYWYERiLf2s=
+		0rsvwkrnXNeaSyXvnfFtayc16zM=
 		</data>
 		<key>Modules/NIOFoundationCompat.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/NIOFoundationCompat.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Tc2O4jqU6A8fQgkSkheX8+KsBLk=
+		xSw1Sct3WSXSAR7GqQb/irv330g=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -81,22 +81,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			F4HsqEnCyIrFfPhM8MgebvA1ZRQ=
+			t7Oto29nn391Lebknjxvke9ZiYI=
 			</data>
 			<key>hash2</key>
 			<data>
-			PX6bIe6hokMzE7dJnjPuxpS0OIRVdF97Jj4eJzHcg3k=
+			IG0ShCTQ2S9DfAGia9cnQ7muiFlh8zMufyesOm/CZzI=
 			</data>
 		</dict>
 		<key>Modules/NIOFoundationCompat.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7csvkOTTDpLj59hS5jY0JjWtQkY=
+			ShSqCaJtCuL1s7UIzfeMvY7SrsI=
 			</data>
 			<key>hash2</key>
 			<data>
-			Jys2gMHHp1vRBcxAUjV6PVoCyauv4REKFK9HnmkiaY8=
+			MPeU1hTkO6fhqwGZqRL1D3GYU3lUIcUD0RHyznekmYY=
 			</data>
 		</dict>
 		<key>Modules/NIOFoundationCompat.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -125,11 +125,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			E/Pw/jh5oyIxrrTEXYWYERiLf2s=
+			0rsvwkrnXNeaSyXvnfFtayc16zM=
 			</data>
 			<key>hash2</key>
 			<data>
-			H5st/3apxeIKwWklAdamY6/EsahAu0JzOLHJQPT+dTc=
+			e2oKiPeKOb46k11zcbwUTzuTNhXRgTUIE4e6YV90dt0=
 			</data>
 		</dict>
 		<key>Modules/NIOFoundationCompat.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -158,11 +158,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Tc2O4jqU6A8fQgkSkheX8+KsBLk=
+			xSw1Sct3WSXSAR7GqQb/irv330g=
 			</data>
 			<key>hash2</key>
 			<data>
-			/e7uL/48fQn5qrMM4mUK9wK2aki171YJZf9wCLMskKI=
+			2qNHZTsrpMUGPGInswjtwGoA4ALSInFgi0y68fJut84=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

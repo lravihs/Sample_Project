@@ -760,10 +760,10 @@ packages:
     dependency: "direct dev"
     description:
       name: patrol
-      sha256: "6689831a97eef1bb6b4b6dd5d62289e1898add8e78ba458c233acd82c56d332d"
+      sha256: c0df9667634ca0e2fed8f5d54d12692b153ebf615e9269840c63d17cdb7a2b8c
       url: "https://pub.dev"
     source: hosted
-    version: "2.2.1"
+    version: "2.2.2"
   petitparser:
     dependency: transitive
     description:

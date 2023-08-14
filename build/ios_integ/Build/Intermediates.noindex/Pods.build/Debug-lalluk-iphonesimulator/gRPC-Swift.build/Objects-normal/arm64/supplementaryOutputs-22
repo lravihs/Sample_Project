@@ -1,0 +1,8 @@
+"/Users/hs/Downloads/AT_Test/ios/Pods/gRPC-Swift/Sources/GRPC/_EmbeddedThroughput.swift":
+  abi-baseline-json: "/Users/hs/Downloads/AT_Test/build/ios_integ/Build/Intermediates.noindex/Pods.build/Debug-lalluk-iphonesimulator/gRPC-Swift.build/Objects-normal/arm64/GRPC.abi.json"
+  diagnostics: "/Users/hs/Downloads/AT_Test/build/ios_integ/Build/Intermediates.noindex/Pods.build/Debug-lalluk-iphonesimulator/gRPC-Swift.build/Objects-normal/arm64/gRPC-Swift-master.dia"
+  swiftmodule: "/Users/hs/Downloads/AT_Test/build/ios_integ/Build/Intermediates.noindex/Pods.build/Debug-lalluk-iphonesimulator/gRPC-Swift.build/Objects-normal/arm64/GRPC.swiftmodule"
+  swiftdoc: "/Users/hs/Downloads/AT_Test/build/ios_integ/Build/Intermediates.noindex/Pods.build/Debug-lalluk-iphonesimulator/gRPC-Swift.build/Objects-normal/arm64/GRPC.swiftdoc"
+  objc-header: "/Users/hs/Downloads/AT_Test/build/ios_integ/Build/Intermediates.noindex/Pods.build/Debug-lalluk-iphonesimulator/gRPC-Swift.build/Objects-normal/arm64/GRPC-Swift.h"
+  swiftsourceinfo: "/Users/hs/Downloads/AT_Test/build/ios_integ/Build/Intermediates.noindex/Pods.build/Debug-lalluk-iphonesimulator/gRPC-Swift.build/Objects-normal/arm64/GRPC.swiftsourceinfo"
+  dependencies: "/Users/hs/Downloads/AT_Test/build/ios_integ/Build/Intermediates.noindex/Pods.build/Debug-lalluk-iphonesimulator/gRPC-Swift.build/Objects-normal/arm64/gRPC-Swift-master.d"

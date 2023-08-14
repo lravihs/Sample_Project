@@ -1,0 +1,11 @@
+framework module NIOPosix {
+  umbrella header "SwiftNIOPosix-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module NIOPosix.Swift {
+  header "NIOPosix-Swift.h"
+  requires objc
+}

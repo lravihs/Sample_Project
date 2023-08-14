@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "e3396b65dfba9816b09c5d2ad96d7b3dbe4c35e2c24cef86944b597e69136a63"
+build_start_time: [1691760886, 488615989]
+build_end_time: [1691760897, 264075994]
+inputs:
+  "/Users/hs/.pub-cache/hosted/pub.dev/patrol-2.2.2/ios/Classes/AutomatorServer/Automator.swift": [1691760044, 275544881]
+  "/Users/hs/.pub-cache/hosted/pub.dev/patrol-2.2.2/ios/Classes/AutomatorServer/AutomatorServer.swift": [1691760044, 263371706]
+  "/Users/hs/.pub-cache/hosted/pub.dev/patrol-2.2.2/ios/Classes/AutomatorServer/Errors.swift": [1691760044, 263694763]
+  "/Users/hs/.pub-cache/hosted/pub.dev/patrol-2.2.2/ios/Classes/AutomatorServer/Logger.swift": [1691760044, 269289493]
+  "/Users/hs/.pub-cache/hosted/pub.dev/patrol-2.2.2/ios/Classes/AutomatorServer/PatrolServer.swift": [1691760044, 264355659]
+  "/Users/hs/.pub-cache/hosted/pub.dev/patrol-2.2.2/ios/Classes/AutomatorServer/contracts.grpc.swift": [1691760044, 278108596]
+  "/Users/hs/.pub-cache/hosted/pub.dev/patrol-2.2.2/ios/Classes/AutomatorServer/contracts.pb.swift": [1691760044, 279081821]
+  "/Users/hs/.pub-cache/hosted/pub.dev/patrol-2.2.2/ios/Classes/PatrolAppServiceClient.swift": [1691760044, 258261680]
+  "/Users/hs/.pub-cache/hosted/pub.dev/patrol-2.2.2/ios/Classes/SwiftPatrolPlugin.swift": [1691760044, 280588388]

@@ -1,0 +1,10 @@
+framework module restart_app {
+  umbrella header "restart_app-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module restart_app.__Swift {
+  exclude header "restart_app-Swift.h"
+}

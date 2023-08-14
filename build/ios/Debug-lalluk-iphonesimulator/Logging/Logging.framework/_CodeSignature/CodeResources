@@ -14,15 +14,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		UTVHANSOu02rlkGHiWfxbn7jpKU=
+		wRYDc+Z1rCqVfZqksXdtmO5RVJc=
 		</data>
 		<key>Modules/Logging.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		QfbpQwGOZ4rVLhEYWJQId3cOyyE=
+		63w4ffEyCTVgFCTqt7DEJk6cmco=
 		</data>
 		<key>Modules/Logging.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		jVv3tM2lrh+gQXmCGA98oWry8vE=
+		xN0XoSVldkOUc6XdQACpE6krP4A=
 		</data>
 		<key>Modules/Logging.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/Logging.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		hh7/vNdKS7d+PFYis3xyXgWB3BA=
+		IRNE7BE85zARMGunpJYB4L801zs=
 		</data>
 		<key>Modules/Logging.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/Logging.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		HBBdoI/YnWm3t+aMNMiT+R+nYqA=
+		fgxMYmnbqMAxjPGjbBj0pu2HTMY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -81,22 +81,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			QfbpQwGOZ4rVLhEYWJQId3cOyyE=
+			63w4ffEyCTVgFCTqt7DEJk6cmco=
 			</data>
 			<key>hash2</key>
 			<data>
-			3dstwTHUXFUHVHnn1kwi3tL+VeHL036c6wp8+r5ufkc=
+			gKt/G8OPp3uV9JtW+9R77tkd1HJNVh4OWphKr6pB7XI=
 			</data>
 		</dict>
 		<key>Modules/Logging.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jVv3tM2lrh+gQXmCGA98oWry8vE=
+			xN0XoSVldkOUc6XdQACpE6krP4A=
 			</data>
 			<key>hash2</key>
 			<data>
-			d2dvot7j87qJi3Yl/8FDq1vgrTa+OT9HQ+eEscsVyMg=
+			vprS+U/k87bIP8ESnnOD9P4XKqxoQl2+aRNEIWZ8MF8=
 			</data>
 		</dict>
 		<key>Modules/Logging.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -125,11 +125,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hh7/vNdKS7d+PFYis3xyXgWB3BA=
+			IRNE7BE85zARMGunpJYB4L801zs=
 			</data>
 			<key>hash2</key>
 			<data>
-			B7idmBoYNJmFfay5o0Xk1/kD+rDp594bWPIJbLBzUJ0=
+			LrIYj5bsWBdZWrWfl8xVxPds1x/AqTb/Hdq6ZSd5MD8=
 			</data>
 		</dict>
 		<key>Modules/Logging.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -158,11 +158,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HBBdoI/YnWm3t+aMNMiT+R+nYqA=
+			fgxMYmnbqMAxjPGjbBj0pu2HTMY=
 			</data>
 			<key>hash2</key>
 			<data>
-			jytIX2rfq7+17Bk0tRJ+ysm7OT/gGzLMayjEgtcx9Nw=
+			3xgt4zrk1l8QPKK6iGAFV6T6ugNzhjaGuaKuhp2RqbY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

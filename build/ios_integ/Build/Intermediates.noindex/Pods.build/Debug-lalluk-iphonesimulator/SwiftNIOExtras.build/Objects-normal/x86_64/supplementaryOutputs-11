@@ -1,0 +1,8 @@
+"/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOExtras/Sources/NIOExtras/DebugInboundEventsHandler.swift":
+  dependencies: "/Users/hs/Downloads/AT_Test/build/ios_integ/Build/Intermediates.noindex/Pods.build/Debug-lalluk-iphonesimulator/SwiftNIOExtras.build/Objects-normal/x86_64/SwiftNIOExtras-master.d"
+  abi-baseline-json: "/Users/hs/Downloads/AT_Test/build/ios_integ/Build/Intermediates.noindex/Pods.build/Debug-lalluk-iphonesimulator/SwiftNIOExtras.build/Objects-normal/x86_64/NIOExtras.abi.json"
+  swiftmodule: "/Users/hs/Downloads/AT_Test/build/ios_integ/Build/Intermediates.noindex/Pods.build/Debug-lalluk-iphonesimulator/SwiftNIOExtras.build/Objects-normal/x86_64/NIOExtras.swiftmodule"
+  swiftdoc: "/Users/hs/Downloads/AT_Test/build/ios_integ/Build/Intermediates.noindex/Pods.build/Debug-lalluk-iphonesimulator/SwiftNIOExtras.build/Objects-normal/x86_64/NIOExtras.swiftdoc"
+  swiftsourceinfo: "/Users/hs/Downloads/AT_Test/build/ios_integ/Build/Intermediates.noindex/Pods.build/Debug-lalluk-iphonesimulator/SwiftNIOExtras.build/Objects-normal/x86_64/NIOExtras.swiftsourceinfo"
+  diagnostics: "/Users/hs/Downloads/AT_Test/build/ios_integ/Build/Intermediates.noindex/Pods.build/Debug-lalluk-iphonesimulator/SwiftNIOExtras.build/Objects-normal/x86_64/SwiftNIOExtras-master.dia"
+  objc-header: "/Users/hs/Downloads/AT_Test/build/ios_integ/Build/Intermediates.noindex/Pods.build/Debug-lalluk-iphonesimulator/SwiftNIOExtras.build/Objects-normal/x86_64/NIOExtras-Swift.h"

@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "119af09a1f530d98bbd56e7b0d3f9d1f9042b8338657bc1fcb47c2115d1d9c1b"
+build_start_time: [1691760785, 840116977]
+build_end_time: [1691760785, 917230129]
+inputs:
+  "/Users/hs/.pub-cache/hosted/pub.dev/restart_app-1.2.1/ios/Classes/RestartAppPlugin.swift": !dirty [1687238292, 912837028]

@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "0ee7bd8f0a271cab50174a0da6787ccad059f9b50c7016b7d1d6cc05cb24fde8"
+build_start_time: [1691760844, 226471900]
+build_end_time: [1691760865, 85592031]
+inputs:
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOTLS/Sources/NIOTLS/ApplicationProtocolNegotiationHandler.swift": [1691760234, 717703819]
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOTLS/Sources/NIOTLS/SNIHandler.swift": [1691760234, 717948436]
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOTLS/Sources/NIOTLS/TLSEvents.swift": [1691760234, 718208789]

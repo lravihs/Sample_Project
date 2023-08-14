@@ -1,0 +1,16 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "70c3f45109711e39a5cc8a867b93a06e518ae5b48a3251aea3e201baa3a38751"
+build_start_time: [1691760854, 611361026]
+build_end_time: [1691760854, 635138988]
+inputs:
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOHPACK/Sources/NIOHPACK/DynamicHeaderTable.swift": !dirty [1691760234, 644573211]
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOHPACK/Sources/NIOHPACK/HPACKDecoder.swift": !dirty [1691760234, 646602630]
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOHPACK/Sources/NIOHPACK/HPACKEncoder.swift": !dirty [1691760234, 645156383]
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOHPACK/Sources/NIOHPACK/HPACKErrors.swift": !dirty [1691760234, 643415927]
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOHPACK/Sources/NIOHPACK/HPACKHeader.swift": !dirty [1691760234, 644826412]
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOHPACK/Sources/NIOHPACK/HeaderTables.swift": !dirty [1691760234, 645591259]
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOHPACK/Sources/NIOHPACK/HuffmanCoding.swift": !dirty [1691760234, 645867824]
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOHPACK/Sources/NIOHPACK/HuffmanTables.swift": !dirty [1691760234, 644359827]
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOHPACK/Sources/NIOHPACK/IndexedHeaderTable.swift": !dirty [1691760234, 646142959]
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOHPACK/Sources/NIOHPACK/IntegerCoding.swift": !dirty [1691760234, 643823146]
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOHPACK/Sources/NIOHPACK/StaticHeaderTable.swift": !dirty [1691760234, 645396709]

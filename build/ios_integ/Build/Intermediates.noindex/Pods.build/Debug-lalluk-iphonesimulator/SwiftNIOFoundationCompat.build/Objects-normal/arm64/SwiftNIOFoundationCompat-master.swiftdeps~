@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "ce28a83d5d12dfbf6fe4b0168b58aafdeac50bdc80119b1f2caa77f369abd168"
+build_start_time: [1691760844, 820643901]
+build_end_time: [1691760844, 869235992]
+inputs:
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOFoundationCompat/Sources/NIOFoundationCompat/ByteBuffer-foundation.swift": !dirty [1691760234, 637714385]
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOFoundationCompat/Sources/NIOFoundationCompat/Codable+ByteBuffer.swift": !dirty [1691760234, 638414382]
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOFoundationCompat/Sources/NIOFoundationCompat/JSONSerialization+ByteBuffer.swift": !dirty [1691760234, 638729333]

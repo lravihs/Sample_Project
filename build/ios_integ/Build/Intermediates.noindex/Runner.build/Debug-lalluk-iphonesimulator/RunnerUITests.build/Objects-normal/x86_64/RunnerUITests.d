@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/hs/Downloads/AT_Test/ios/RunnerUITests/RunnerUITests.m \
+  /Users/hs/Downloads/AT_Test/build/ios_integ/Build/Products/Debug-lalluk-iphonesimulator/patrol/patrol.framework/Modules/module.modulemap \
+  /Users/hs/Downloads/AT_Test/build/ios_integ/Build/Products/Debug-lalluk-iphonesimulator/Flutter.framework/Modules/module.modulemap \
+  /Users/hs/Downloads/AT_Test/build/ios_integ/Build/Products/Debug-lalluk-iphonesimulator/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/hs/Downloads/AT_Test/build/ios_integ/Build/Products/Debug-lalluk-iphonesimulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/hs/Downloads/AT_Test/build/ios_integ/Build/Products/Debug-lalluk-iphonesimulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/hs/Downloads/AT_Test/build/ios_integ/Build/Products/Debug-lalluk-iphonesimulator/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/hs/Downloads/AT_Test/build/ios_integ/Build/Products/Debug-lalluk-iphonesimulator/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/hs/Downloads/AT_Test/build/ios_integ/Build/Products/Debug-lalluk-iphonesimulator/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/hs/Downloads/AT_Test/build/ios_integ/Build/Products/Debug-lalluk-iphonesimulator/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/hs/Downloads/AT_Test/build/ios_integ/Build/Products/Debug-lalluk-iphonesimulator/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/hs/Downloads/AT_Test/build/ios_integ/Build/Products/Debug-lalluk-iphonesimulator/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/hs/Downloads/AT_Test/build/ios_integ/Build/Products/Debug-lalluk-iphonesimulator/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/hs/Downloads/AT_Test/build/ios_integ/Build/Products/Debug-lalluk-iphonesimulator/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/hs/Downloads/AT_Test/build/ios_integ/Build/Products/Debug-lalluk-iphonesimulator/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/hs/Downloads/AT_Test/build/ios_integ/Build/Products/Debug-lalluk-iphonesimulator/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/hs/Downloads/AT_Test/build/ios_integ/Build/Products/Debug-lalluk-iphonesimulator/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/hs/Downloads/AT_Test/build/ios_integ/Build/Products/Debug-lalluk-iphonesimulator/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/hs/Downloads/AT_Test/build/ios_integ/Build/Products/Debug-lalluk-iphonesimulator/Flutter.framework/Headers/Flutter.h \
+  /Users/hs/Downloads/AT_Test/build/ios_integ/Build/Products/Debug-lalluk-iphonesimulator/patrol/patrol.framework/Headers/patrol-Swift.h \
+  /Users/hs/Downloads/AT_Test/build/ios_integ/Build/Products/Debug-lalluk-iphonesimulator/patrol/patrol.framework/Headers/PatrolUtils.h \
+  /Users/hs/Downloads/AT_Test/build/ios_integ/Build/Products/Debug-lalluk-iphonesimulator/patrol/patrol.framework/Headers/PatrolPlugin.h \
+  /Users/hs/Downloads/AT_Test/build/ios_integ/Build/Products/Debug-lalluk-iphonesimulator/patrol/patrol.framework/Headers/PatrolIntegrationTestRunner.h \
+  /Users/hs/Downloads/AT_Test/build/ios_integ/Build/Products/Debug-lalluk-iphonesimulator/patrol/patrol.framework/Headers/patrol-umbrella.h

@@ -1,0 +1,10 @@
+framework module NIOHPACK {
+  umbrella header "SwiftNIOHPACK-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module NIOHPACK.__Swift {
+  exclude header "NIOHPACK-Swift.h"
+}

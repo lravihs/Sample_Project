@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "023c81779a0d2147b7418b6d5f9bfad1f36b7aca82eb91e905479fcf2f84e057"
+build_start_time: [1691760843, 226901054]
+build_end_time: [1691760843, 257004976]
+inputs:
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIO/Sources/NIO/Exports.swift": !dirty [1691760234, 590486526]

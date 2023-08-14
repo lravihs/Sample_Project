@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "6cc0762ea23d75d8c6674399df0716330a11f3f82aef5f401f79f74da23b59cc"
+build_start_time: [1691760793, 317419052]
+build_end_time: [1691760863, 381492137]
+inputs:
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOConcurrencyHelpers/Sources/NIOConcurrencyHelpers/NIOAtomic.swift": [1691760234, 595335006]
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOConcurrencyHelpers/Sources/NIOConcurrencyHelpers/atomics.swift": [1691760234, 594754219]
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOConcurrencyHelpers/Sources/NIOConcurrencyHelpers/lock.swift": [1691760234, 595053195]

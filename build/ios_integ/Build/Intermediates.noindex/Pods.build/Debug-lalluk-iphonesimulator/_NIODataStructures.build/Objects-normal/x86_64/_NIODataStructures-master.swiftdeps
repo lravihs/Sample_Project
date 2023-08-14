@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "f9ccaff5bc9d0203f05be8a1ae34ea274342550eb80ad82cf8d8f54a29621ed1"
+build_start_time: [1691760792, 856701850]
+build_end_time: [1691760803, 422924995]
+inputs:
+  "/Users/hs/Downloads/AT_Test/ios/Pods/_NIODataStructures/Sources/_NIODataStructures/Heap.swift": [1691760234, 769922494]
+  "/Users/hs/Downloads/AT_Test/ios/Pods/_NIODataStructures/Sources/_NIODataStructures/PriorityQueue.swift": [1691760234, 769326210]

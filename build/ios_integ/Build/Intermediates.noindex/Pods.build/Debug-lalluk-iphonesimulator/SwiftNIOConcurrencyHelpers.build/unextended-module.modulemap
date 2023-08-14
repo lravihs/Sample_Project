@@ -1,0 +1,10 @@
+framework module NIOConcurrencyHelpers {
+  umbrella header "SwiftNIOConcurrencyHelpers-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module NIOConcurrencyHelpers.__Swift {
+  exclude header "NIOConcurrencyHelpers-Swift.h"
+}

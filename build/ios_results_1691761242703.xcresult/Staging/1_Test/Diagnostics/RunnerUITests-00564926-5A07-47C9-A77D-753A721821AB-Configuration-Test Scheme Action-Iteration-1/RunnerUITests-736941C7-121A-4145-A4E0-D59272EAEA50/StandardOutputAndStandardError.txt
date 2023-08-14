@@ -1,0 +1,15 @@
+2023-08-11 19:11:03.680040+0530 RunnerUITests-Runner[62159:462725] [SceneConfiguration] Info.plist contained no UIScene configuration dictionary (looking for configuration named "(no name)")
+2023-08-11 19:11:03.681156+0530 RunnerUITests-Runner[62159:462725] [SceneConfiguration] Info.plist contained no UIScene configuration dictionary (looking for configuration named "(no name)")
+2023-08-11 19:11:03.748606+0530 RunnerUITests-Runner[62159:462725] Running tests...
+2023-08-11 19:11:04.954762+0530 RunnerUITests-Runner[62159:462725] PatrolServer: INFO: PATROL_PORT is null, falling back to default (8081)
+2023-08-11 19:11:04.955639+0530 RunnerUITests-Runner[62159:462725] PatrolServer: INFO: PatrolServer constructor called
+2023-08-11 19:11:04.956165+0530 RunnerUITests-Runner[62159:462725] PatrolServer: INFO: PATROL_ENABLED flag is defined
+2023-08-11 19:11:04.958472+0530 RunnerUITests-Runner[62159:462725] PatrolAppServiceClient: created, port: 8082
+2023-08-11 19:11:04.985243+0530 RunnerUITests-Runner[62159:462855] [si_destination_compare] send failed: Invalid argument
+2023-08-11 19:11:04.985446+0530 RunnerUITests-Runner[62159:462855] [si_destination_compare] send failed: Undefined error: 0
+2023-08-11 19:11:05.007021+0530 RunnerUITests-Runner[62159:462845] PatrolServer: INFO: Server started on http://localhost:8081
+    t =      nans Checking existence of `"Allow" Button`
+    t =      nans Open com.paytronix.nexgenfl
+    t =      nans     Launch com.paytronix.nexgenfl
+    t =      nans         Setting up automation session
+    t =      nans         Wait for com.paytronix.nexgenfl to idle

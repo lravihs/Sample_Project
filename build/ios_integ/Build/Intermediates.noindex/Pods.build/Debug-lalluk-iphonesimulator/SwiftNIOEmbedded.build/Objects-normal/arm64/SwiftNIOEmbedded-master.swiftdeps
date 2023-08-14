@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "0ae07cb7ad40f68319eaee4d6596f25304945a4e661632a4902f5476c3a3f153"
+build_start_time: [1691760817, 896061897]
+build_end_time: [1691760864, 332802057]
+inputs:
+  "/Users/hs/Downloads/AT_Test/ios/Pods/SwiftNIOEmbedded/Sources/NIOEmbedded/Embedded.swift": [1691760234, 624752998]

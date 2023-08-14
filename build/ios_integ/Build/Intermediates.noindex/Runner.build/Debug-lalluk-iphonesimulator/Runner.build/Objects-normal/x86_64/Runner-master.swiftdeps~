@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "e5b6d94a83d45149ebb3cfca4cb78a87fd1becfa5f8ef8ad2edf47bf08d1fe4c"
+build_start_time: [1691760910, 335167884]
+build_end_time: [1691760910, 398988962]
+inputs:
+  "/Users/hs/Downloads/AT_Test/ios/Runner/AppDelegate.swift": !private [1690971641, 0]
+  "/Users/hs/Downloads/AT_Test/ios/Runner/iOSDatePicker.swift": !private [1685693053, 0]
+  "/Users/hs/Downloads/AT_Test/ios/Runner/iOSPicker.swift": !private [1685693053, 0]

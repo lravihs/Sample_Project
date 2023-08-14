@@ -26,7 +26,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		AfsVdL+j73TSxFM/e1CSdOzug8Q=
+		Y83PIIycXQWqB9MIAJCGf/kToQs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/patrol.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		8832YY/sQocy3r9SNUgbCW1Ozhs=
+		mVJOs8AH24T83QkPBHTCRS9QK2I=
 		</data>
 		<key>Modules/patrol.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		O5iIYOuU1frBJwwQsNX/5Sx95SQ=
+		hWAJ9RnDdKjnUOu4VHv8+2ER+HI=
 		</data>
 		<key>Modules/patrol.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/patrol.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		iHgdAIGzcaOMvzt31NexQhr6bZo=
+		3c+nbCfSsF1r52xvyWk0qZsKz1o=
 		</data>
 		<key>Modules/patrol.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/patrol.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		WsroOcLfEwtiv6wW7yZnSS/MCCE=
+		7x6M0GrFLMTKjxHYRhKX9rTRNlM=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -113,14 +113,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JC2aoJJSTgHL3BCCmerfmI2GD3hSVebXKbYzXEU3VYg=
+			YabP3+0ecP0bxwKNz/T4OAOCHwh5XFQMY6qSuvX9V7U=
 			</data>
 		</dict>
 		<key>Modules/patrol.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LO1tYBg8RoeR9ewuJ8AEOywlaeCFLhKN/1hEh20EiWk=
+			sCUUMqJhHlh4kVc+vDZuwR8OBbzj345oOXcnVjvVxfo=
 			</data>
 		</dict>
 		<key>Modules/patrol.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -141,7 +141,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qMuYRlechZIXHyUyOQjwG2MSTStTQHkQkJwq67qqvgM=
+			DY5JFUDYnTLjWpuVQUQZddisHKWaIoCgMwseXh7MNyU=
 			</data>
 		</dict>
 		<key>Modules/patrol.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -162,7 +162,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NXTmlWW3iuetT/d3m6gIA3GT4MKsukSZywdyBC5oAo0=
+			OW36hm4rbuNpQRftThBzpXbamtbUHDt4jtVV+uY28js=
 			</data>
 		</dict>
 	</dict>
