@@ -1,2 +1,2 @@
-# Next-Gen-App
-Development repository for next gen application
+# Sample app
+
