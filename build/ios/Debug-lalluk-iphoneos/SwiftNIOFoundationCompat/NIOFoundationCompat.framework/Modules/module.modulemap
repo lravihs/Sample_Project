@@ -1,0 +1,11 @@
+framework module NIOFoundationCompat {
+  umbrella header "SwiftNIOFoundationCompat-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module NIOFoundationCompat.Swift {
+  header "NIOFoundationCompat-Swift.h"
+  requires objc
+}

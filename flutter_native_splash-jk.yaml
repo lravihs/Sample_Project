@@ -1,0 +1,11 @@
+flutter_native_splash:
+  #color: "#ffffff"
+  #image: lib/assets/jk/splash.png
+  background_image: lib/assets/splash/truck_splash_logo.png
+  android_gravity: center
+  ios_content_mode: center
+
+  android_12:
+    image: lib/assets/splash/truck_splash_logo.png
+    color: "#ffffff"
+  web: false

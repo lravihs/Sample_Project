@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/app_settings-4.2.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/connectivity_plus-4.0.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/device_info_plus-8.2.2/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_app_badger-1.5.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_native_splash-2.2.19/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_native_timezone-2.0.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.15/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/geolocator_android-4.1.7/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/google_maps_flutter_android-2.4.15/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/local_auth_android-1.0.28/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/location-4.4.0/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/notification_permissions-0.6.1/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/package_info_plus-3.1.2/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/patrol-2.2.1/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/restart_app-1.2.1/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/shared_preferences_android-2.1.2/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/url_launcher_android-6.0.33/android" />
+            <option value="$USER_HOME$/.pub-cache/hosted/pub.dev/webview_flutter_android-3.8.0/android" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$USER_HOME$/Documents/flutter/packages/integration_test/android" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

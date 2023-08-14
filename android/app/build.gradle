@@ -1,0 +1,84 @@
+def localProperties = new Properties()
+def localPropertiesFile = rootProject.file('local.properties')
+if (localPropertiesFile.exists()) {
+    localPropertiesFile.withReader('UTF-8') { reader ->
+        localProperties.load(reader)
+    }
+}
+
+def flutterRoot = localProperties.getProperty('flutter.sdk')
+if (flutterRoot == null) {
+    throw new GradleException("Flutter SDK not found. Define location with flutter.sdk in the local.properties file.")
+}
+
+def flutterVersionCode = localProperties.getProperty('flutter.versionCode')
+if (flutterVersionCode == null) {
+    flutterVersionCode = '1'
+}
+
+def flutterVersionName = localProperties.getProperty('flutter.versionName')
+if (flutterVersionName == null) {
+    flutterVersionName = '1.0'
+}
+
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+apply from: "$flutterRoot/packages/flutter_tools/gradle/flutter.gradle"
+
+android {
+    compileSdkVersion flutter.compileSdkVersion
+    ndkVersion flutter.ndkVersion
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    defaultConfig {
+        // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
+        applicationId "com.example.sample"
+        // You can update the following values to match your application needs.
+        // For more information, see: https://docs.flutter.dev/deployment/android#reviewing-the-gradle-build-configuration.
+        minSdkVersion 26
+        targetSdkVersion flutter.targetSdkVersion
+        versionCode 1
+        versionName "1.0"
+        signingConfig signingConfigs.debug
+    }
+
+    buildTypes {
+        release {
+            // TODO: Add your own signing config for the release build.
+            // Signing with the debug keys for now, so `flutter run --release` works.
+//            signingConfig signingConfigs.branded
+        }
+    }
+    flavorDimensions "restaurant"
+
+    def rootProjectPath = project.rootDir.toString()
+    def appendedFilepath = rootProjectPath.substring(0, rootProjectPath.length() - 7) + "lib/assets/flavor_config.json"
+    def jsonFile = file(appendedFilepath)
+    def parsedJson = new groovy.json.JsonSlurper().parseText(jsonFile.text)
+
+    println parsedJson.flavor
+
+    productFlavors {
+        parsedJson.flavor.each { key, value ->
+            println 'flavor' + key
+
+            def configFilepath = rootProjectPath.substring(0, rootProjectPath.length() - 7) + value
+            def jsonConfigFile = file(configFilepath)
+            def parsedConfigJson = new groovy.json.JsonSlurper().parseText(jsonConfigFile.text)
+
+            "$parsedConfigJson.flavor_name" {
+                dimension "restaurant"
+                resValue "string", "app_name", parsedConfigJson.app_name
+            }
+        }
+    }
+}
+
+flutter {
+    source '../..'
+}
+
